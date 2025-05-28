@@ -29,6 +29,7 @@ in a rectangular single-block warehouse。
 该项目相关论文链接：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10857038
 
 BibTeX引用格式：
+
 '''
 @INPROCEEDINGS{10857038,
   author={Liu, Yuqi and Shen, Haihui and Xia, Jun},
