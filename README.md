@@ -1,7 +1,7 @@
 # 单块仓库拣货路径规划算法
 
-:wave:欢迎使用单块仓库拣货路径规划问题求解算法项目，该项目所属于毕业论文《面向传统仓库的拣货路径优化再研究》（2025.06），以及已发表论文A more concise and efficient formulation of order picker routing 
-in a rectangular single-block warehouse。
+:wave:欢迎使用单块仓库拣货路径规划问题求解算法项目，该项目所属于毕业论文《面向传统仓库的拣货路径优化再研究》（2025.06），以及已发表论文《A more concise and efficient formulation of order picker routing 
+in a rectangular single-block warehouse》。
 
 # 快速体验
 
