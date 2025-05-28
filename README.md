@@ -6,16 +6,23 @@ in a rectangular single-block warehouse。
 # 快速体验
 
 如果您想尝试求解小实验，可以进入example文件进行尝试，在该文件夹下为您提供了一个运行实例：
+
 --test：一组测试数据
+
 --DAP.py：程序入口，运行后得到规划结果如图
-![image](https://github.com/MyReStudy/single_block/tree/master/example/single_block_result.png)
+
+![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
 # 代码说明
 
 --DAP_algorithm.py：DAP算法运行代码
+
 --RR_algorithm.py：RR算法运行代码
+
 --PickingState.py & PickingInfo.py：DAP的状态转移等求解需要的信息
+
 --Table1.xlsx & Table2.xlsx：RR所需的状态转移表（与RR论文中一致）
+
 --data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
 
 # 论文引用说明
