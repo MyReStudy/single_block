@@ -30,7 +30,7 @@ in a rectangular single-block warehouse。
 
 BibTeX引用格式：
 
-'''
+```
 @INPROCEEDINGS{10857038,
   author={Liu, Yuqi and Shen, Haihui and Xia, Jun},
   booktitle={2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)}, 
@@ -38,7 +38,7 @@ BibTeX引用格式：
   year={2024},
   pages={0647-0652},
   doi={10.1109/IEEM62345.2024.10857038}}
-'''
+```
 
 若您在后续研究或应用中使用到本项目涉及的思想与方法，请予以规范引用。
 
