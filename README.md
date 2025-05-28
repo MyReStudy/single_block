@@ -5,7 +5,7 @@ in a rectangular single-block warehouse》。
 
 # 快速体验
 
-如果您想尝试求解小实验，可以进入example文件进行尝试，在该文件夹下为您提供了一个运行实例：
+:wink:如果您想尝试求解小实验，可以进入example文件进行尝试，在该文件夹下为您提供了一个运行实例：
 
 --test：一组测试数据
 
@@ -14,14 +14,15 @@ in a rectangular single-block warehouse》。
 ![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
 # 代码说明
+:rocket:以下是具体的代码文件说明：
 
 --DAP_algorithm.py：DAP算法运行代码
 
 --RR_algorithm.py：RR算法运行代码
 
---PickingState.py & PickingInfo.py：DAP的状态转移等求解需要的信息
+--PickingState.py & PickingInfo.py：DAP算法求解需要的信息
 
---Table1.xlsx & Table2.xlsx：RR所需的状态转移表（与RR论文中一致）
+--Table1.xlsx & Table2.xlsx：RR算法所需的状态转移表（与RR论文中一致）
 
 --data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
 
@@ -43,4 +44,4 @@ BibTeX引用格式：
 若您在后续研究或应用中使用到本项目涉及的思想与方法，请予以规范引用。
 
 # 联系我
-:blush:若您对本项目感兴趣，欢迎通过Github与我取得联系（或联系邮箱shenhaihui@sjtu.edu.cn；yuqi_liu@sjtu.edu.cn），期待与您交流探讨，共同推进仓库拣货路径规划算法研究。
+:blush:若您对本项目感兴趣，欢迎通过Github与我取得联系（或联系邮箱shenhaihui@sjtu.edu.cn；yuqi_liu@sjtu.edu.cn），期待与您交流探讨，共同推进仓库拣货路径规划算法研究进程。
