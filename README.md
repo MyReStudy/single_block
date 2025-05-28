@@ -27,7 +27,7 @@ in a rectangular single-block warehouse》。
 --data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
 
 # 论文引用说明
-该项目相关论文链接：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10857038
+:star2:该项目相关论文链接：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10857038
 
 BibTeX引用格式：
 
