@@ -2,8 +2,7 @@
 
 This repository contains the source codes used in the following paper:  
 本项目包含的代码使用在以下论文中：
-
-
+* Yuqi Liu, Haihui Shen, and Jun Xia (2024). [A more concise and efficient formulation of order picker routing in a rectangular single-block warehouse](https://doi.org/10.1109/IEEM62345.2024.10857038). *2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM2024)*, 647-652. [PDF](https://shenhaihui.github.io/research/papers/Routing_IEEM24.pdf) [errata](https://shenhaihui.github.io/research/papers/Routing_IEEM24_errata.pdf)
 
 :wave:欢迎使用单块仓库拣货路径规划问题求解算法项目，该项目所属于毕业论文《面向传统仓库的拣货路径优化再研究》（2025.06），以及已发表论文 A more concise and efficient formulation of order picker routing 
 in a rectangular single-block warehouse。
