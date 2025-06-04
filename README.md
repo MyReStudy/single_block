@@ -1,6 +1,6 @@
 # Source Codes of Order Picker Routing Algorithm in A Rectangular Single-Block Warehouse   <br> 矩形单块仓库拣货路径规划算法源代码
 
-This repository contains the source codes used in the following paper:
+This repository contains the source codes used in the following paper:  
 本项目包含的代码使用在以下论文中：
 
 
