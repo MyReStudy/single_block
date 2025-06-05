@@ -22,7 +22,7 @@ and in the following master's thesis:
 # A Small Example 一个小例子
 
 If you want to see a small example of the DAP algorithm, get into folder `\example` and run `DAP.py`, which will give you the following results:  
-如果您想尝试使用DAP算法求解一个小例子，你可以进入`\example`文件夹，运行`DAP.py`，您将会得到以下结果：
+如果您想尝试使用DAP算法求解一个小例子，可以进入`\example`文件夹，运行`DAP.py`，您将会得到以下结果：
 
 ![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
