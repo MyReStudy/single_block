@@ -19,14 +19,10 @@ and in the following master's thesis:
 * `\data`: contains the experiment instances, where 1-20 indicates the number of picking aisles, and for each number of picking aisles 100 instances are generated.
 测试实例文件，1~20表示拣货巷道数量，每个拣货巷道数量下随机产生了100个实例。
 
+# A Small Example 一个小例子
 
-# 快速体验
-
-:wink:如果您想尝试求解小实验，可以进入example文件进行尝试，在该文件夹下为您提供了一个运行实例：
-
---test：一组测试数据
-
---DAP.py：程序入口，运行后得到规划结果如图
+If you want to see a small example of the DAP algorithm, get into folder `\example` and run `DAP.py`, which will give you the following results:  
+如果您想尝试使用DAP算法求解一个小例子，你可以进入`\example`文件夹，运行`DAP.py`，您将会得到以下结果：
 
 ![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
