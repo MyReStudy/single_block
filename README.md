@@ -41,6 +41,5 @@ If you used the codes in this repository, please properly cite
   doi={10.1109/IEEM62345.2024.10857038}}
 ```
 
-:blush:  
 For further communication and discussion, please contact me via GitHub or email (yuqi_liu@sjtu.edu.cn, shenhaihui@sjtu.edu.cn).  
 若需进一步交流与探讨，可以通过GitHub或邮件（yuqi_liu@sjtu.edu.cn, shenhaihui@sjtu.edu.cn）联系我。
