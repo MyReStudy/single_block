@@ -11,13 +11,11 @@ and in the following master's thesis:
   刘雨祺 (2025). 面向传统仓库的拣货路径优化再研究. 上海交通大学.
 
 # Instruction 代码说明
-:rocket:以下是具体的代码文件说明：
 
-`DAP_algorithm.py`：DAP算法运行代码
+* `DAP_algorithm.py`: Main codes of the DAP algorithm proposed in Liu et al. (2024). DAP算法运行代码。
+* `PickingState.py` & `PickingInfo.py`: Required information of the DAP algorithm. DAP算法求解需要的信息。
 
 `RR_algorithm.py`：RR算法运行代码
-
---PickingState.py & PickingInfo.py：DAP算法求解需要的信息
 
 --Table1.xlsx & Table2.xlsx：RR算法所需的状态转移表（与RR论文中一致）
 
