@@ -1,8 +1,8 @@
 # Source Codes of Order Picker Routing Algorithm in A Rectangular Single-Block Warehouse   <br> 矩形单块仓库拣货路径规划算法源代码
 
 :wave:
-This repository contains the source codes used in the following paper:  
-本项目包含的代码使用在以下论文中：
+This repository contains the source Python codes used in the following paper:  
+本项目包含的Python代码使用在以下论文中：
 * Yuqi Liu, Haihui Shen, and Jun Xia (2024). [A more concise and efficient formulation of order picker routing in a rectangular single-block warehouse](https://doi.org/10.1109/IEEM62345.2024.10857038). *2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM2024)*, 647-652. [[PDF](https://shenhaihui.github.io/research/papers/Routing_IEEM24.pdf)] [[errata](https://shenhaihui.github.io/research/papers/Routing_IEEM24_errata.pdf)]
   
 and in the following master's thesis:  
@@ -10,7 +10,18 @@ and in the following master's thesis:
 * Yuqi Liu (2025). Re-Study of Picking Path Optimisation for Conventional Warehouses. Shanghai Jiao Tong University.  
   刘雨祺 (2025). 面向传统仓库的拣货路径优化再研究. 上海交通大学.
 
+# Instruction 代码说明
+:rocket:以下是具体的代码文件说明：
 
+`DAP_algorithm.py`：DAP算法运行代码
+
+`RR_algorithm.py`：RR算法运行代码
+
+--PickingState.py & PickingInfo.py：DAP算法求解需要的信息
+
+--Table1.xlsx & Table2.xlsx：RR算法所需的状态转移表（与RR论文中一致）
+
+--data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
 
 
 # 快速体验
@@ -23,18 +34,7 @@ and in the following master's thesis:
 
 ![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
-# 代码说明
-:rocket:以下是具体的代码文件说明：
 
---DAP_algorithm.py：DAP算法运行代码
-
---RR_algorithm.py：RR算法运行代码
-
---PickingState.py & PickingInfo.py：DAP算法求解需要的信息
-
---Table1.xlsx & Table2.xlsx：RR算法所需的状态转移表（与RR论文中一致）
-
---data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
 
 # 论文引用说明
 :star2:该项目相关论文链接：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10857038
