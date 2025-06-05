@@ -26,12 +26,10 @@ If you want to see a small example of the DAP algorithm, get into folder `\examp
 
 ![image](https://github.com/MyReStudy/single_block/blob/master/example/single_block_result.png)
 
+# Cite & Contact 引用&联系
 
-
-# 论文引用说明
-:star2:该项目相关论文链接：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10857038
-
-BibTeX引用格式：
+If you used the codes in this repository, please properly cite  
+如果您使用了本项目中的代码，请予以引用
 
 ```
 @INPROCEEDINGS{10857038,
@@ -43,7 +41,6 @@ BibTeX引用格式：
   doi={10.1109/IEEM62345.2024.10857038}}
 ```
 
-若您在后续研究或应用中使用到本项目涉及的思想与方法，请予以规范引用。
-
-# 联系我
-:blush:若您对本项目感兴趣，欢迎通过Github与我取得联系（或联系邮箱shenhaihui@sjtu.edu.cn；yuqi_liu@sjtu.edu.cn），期待与您交流探讨，共同推进仓库拣货路径规划算法研究进程。
+:blush:  
+For further communication and discussion, please contact me via GitHub or email (yuqi_liu@sjtu.edu.cn, shenhaihui@sjtu.edu.cn).  
+若需进一步交流与探讨，可以通过GitHub或邮件（yuqi_liu@sjtu.edu.cn, shenhaihui@sjtu.edu.cn）联系我。
