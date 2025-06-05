@@ -14,12 +14,10 @@ and in the following master's thesis:
 
 * `DAP_algorithm.py`: Main codes of the DAP algorithm proposed in Liu et al. (2024). DAP算法运行代码。
 * `PickingState.py` & `PickingInfo.py`: Required information of the DAP algorithm. DAP算法求解需要的信息。
-
-`RR_algorithm.py`：RR算法运行代码
-
---Table1.xlsx & Table2.xlsx：RR算法所需的状态转移表（与RR论文中一致）
-
---data：数据文件，1~20表示拣货巷道数量，不同拣货巷道下存储了100个实验数据
+* `RR_algorithm.py`: Main codes of the compared RR algorithm proposed in [Ratliff and Rosenthal (1983)](https://doi.org/10.1287/opre.31.3.507). RR算法运行代码。
+* `Table1.xlsx` & `Table2.xlsx`：Required tables of the RR algorithm. RR算法所需的状态转移表。
+* `\data`: contains the experiment instances, where 1-20 indicates the number of picking aisles, and for each number of picking aisles 100 instances are generated.
+测试实例文件，1~20表示拣货巷道数量，每个拣货巷道数量下随机产生了100个实例。
 
 
 # 快速体验
